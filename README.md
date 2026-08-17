@@ -218,6 +218,9 @@ This project demonstrates how healthcare member data can be transformed into an 
 
 The dashboard provides healthcare-focused insights into screening participation and member demographics, helping users identify screening gaps, understand population characteristics, and support **data-driven healthcare outreach and decision-making**.
 
-### Screenshots / Demos
-📷 Dashboard Preview
+### 📸 Screenshots / Demos
+
+#### 📊 Dashboard Preview
+
+![Healthcare Analysis Dashboard](Snapshot%20of%20Dashboard%20View.png)
 
