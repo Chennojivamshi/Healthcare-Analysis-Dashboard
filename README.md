@@ -203,7 +203,7 @@ Healthcare Insights
 
 ## 📷 Dashboard Preview
 
-![Healthcare Analysis Dashboard](dashboard.png)
+![Healthcare Analysis Dashboard](https://github.com/Chennojivamshi/Healthcare-Analysis-Dashboard/blob/main/Snapshort%20of%20%20Dashboard%20View.png?raw=true)
 
 
 ## 🎯 Skills Demonstrated
