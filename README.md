@@ -222,5 +222,5 @@ The dashboard provides healthcare-focused insights into screening participation 
 
 #### 📊 Dashboard Preview
 
-![Healthcare Analysis Dashboard](Snapshot%20of%20Dashboard%20View.png)
+https://github.com/Chennojivamshi/Healthcare-Analysis-Dashboard/blob/main/Snapshort%20of%20%20Dashboard%20View.png?raw=true
 
